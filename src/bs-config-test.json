@@ -1,6 +1,6 @@
 {
   "open": false,
-  "port": 80,
+  "port": 8080,
   "server": {
     "baseDir": [
       "./src",
