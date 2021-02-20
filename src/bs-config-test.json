@@ -1,0 +1,16 @@
+{
+  "open": false,
+  "port": 80,
+  "server": {
+    "baseDir": [
+      "./src",
+      "./build/contracts"
+    ],
+    "routes": {
+      "/vendor": "./node_modules"
+    }
+  },
+  "ui": {
+    "port": 3000
+  }
+}

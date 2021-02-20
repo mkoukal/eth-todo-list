@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "lite-server -c ./src/bs-config.json",
-    "test": "echo \"Error: no test specified\" && sexit 1"
+    "test": "lite-server -c ./src/bs-config-test.json"
   },
   "author": "gregory@dappuniversity.com",
   "license": "ISC",
